@@ -1,0 +1,14 @@
+[Unit]
+Description=SZR Cloud Ecosystem Node Gateway
+After=network.target
+
+[Service]
+WorkingDirectory=/opt/szr-cloud-ecosystem/backend/node
+ExecStart=/usr/bin/node server.js
+Restart=always
+User=www-data
+Group=www-data
+EnvironmentFile=/opt/szr-cloud-ecosystem/.env
+
+[Install]
+WantedBy=multi-user.target
