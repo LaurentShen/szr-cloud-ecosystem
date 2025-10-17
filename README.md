@@ -1,6 +1,7 @@
 # 🌐 SZR Cloud Ecosystem
 
 > A full-stack, open-source ecosystem integrating **AI**, **Cloud Drive**, **Email**, and **User Management** — built to demonstrate scalable web architecture and secure LLM service integration.
+---
 > Thanks for your view, and I am now still working on the perfection of service installation process:)
 
 ---
@@ -141,4 +142,4 @@ GitHub: [LaurentShen](https://github.com/LaurentShen)
 ---
 
 ## 🪪 License
-MIT License © 2025 Zhairui Shen
+MIT License © 2025 SZR.HK
