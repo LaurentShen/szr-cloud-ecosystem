@@ -4,7 +4,7 @@
 
 > A full-stack, open-source ecosystem integrating **AI**, **Cloud Drive**, **Email**, and **User Management** — built to demonstrate scalable web architecture and secure LLM service integration.
 ---
-> Thanks for your view, and I am now still working on the perfection of service installation process:)
+> Thanks for your view, and I am now still working on the perfection of the installation:)
 
 ---
 
